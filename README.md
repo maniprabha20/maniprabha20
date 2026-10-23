@@ -37,6 +37,13 @@ I'm graduating in 2027 and looking for opportunities to grow as a software devel
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maniprabha20&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maniprabha20&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
 ## 🚀 Featured Projects
 
 <a href="https://legal-analyzer-fastapi-react-1.onrender.com/">
